@@ -1,0 +1,102 @@
+[
+	{
+		"id": 0,
+		"imageUrl": "https://fichepizza.com.ua/image/catalog/picca/margarita.jpg",
+		"title": "Ocean",
+		"types": [0, 1],
+		"sizes": [26, 30, 40],
+		"price": 803,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 1,
+		"imageUrl": "https://fichepizza.com.ua/image/catalog/products/pepperoni_sajt.jpg",
+		"title": "Morcepan",
+		"types": [0],
+		"sizes": [26, 40],
+		"price": 245,
+		"category": 0,
+		"rating": 6
+	},
+	{
+		"id": 2,
+		"imageUrl": "https://fichepizza.com.ua/image/catalog/products/vershkovasajt.jpg",
+		"title": "For my Wife",
+		"types": [0],
+		"sizes": [26, 40],
+		"price": 295,
+		"category": 1,
+		"rating": 4
+	},
+	{
+		"id": 3,
+		"imageUrl": "https://fichepizza.com.ua/image/catalog/picca/syrnyjcipa_sajt.jpg",
+		"title": "My Sorrow",
+		"types": [1],
+		"sizes": [26, 30, 40],
+		"price": 275,
+		"category": 2,
+		"rating": 2
+	},
+	{
+		"id": 4,
+		"imageUrl": "https://fichepizza.com.ua/image/catalog/picca/texasalst_site2.jpg",
+		"title": "Big INT",
+		"types": [0, 1],
+		"sizes": [26, 30, 40],
+		"price": 415,
+		"category": 3,
+		"rating": 8
+	},
+	{
+		"id": 5,
+		"imageUrl": "https://fichepizza.com.ua/image/catalog/picca/supersal2.jpg",
+		"title": "Different way",
+		"types": [0],
+		"sizes": [30, 40],
+		"price": 580,
+		"category": 2,
+		"rating": 2
+	},
+	{
+		"id": 6,
+		"imageUrl": "https://fichepizza.com.ua/image/catalog/picca/gavai_sajt.jpg",
+		"title": "Issi Bus",
+		"types": [0, 1],
+		"sizes": [26, 30, 40],
+		"price": 675,
+		"category": 1,
+		"rating": 9
+	},
+	{
+		"id": 7,
+		"imageUrl": "https://fichepizza.com.ua/image/catalog/picca/4syra_sajt.jpg",
+		"title": "Glory Time",
+		"types": [0, 1],
+		"sizes": [26, 30, 40],
+		"price": 450,
+		"category": 4,
+		"rating": 10
+	},
+	{
+		"id": 8,
+		"imageUrl": "https://fichepizza.com.ua/image/catalog/picca/alkopchino.jpg",
+		"title": "Green Gray",
+		"types": [0, 1],
+		"sizes": [26, 30, 40],
+		"price": 395,
+		"category": 5,
+		"rating": 10
+	},
+	{
+		"id": 9,
+		"imageUrl": "https://fichepizza.com.ua/image/catalog/picca/bbkbbsajt.jpg",
+		"title": "Dick Dock",
+		"types": [0, 1],
+		"sizes": [26, 30, 40],
+		"price": 285,
+		"category": 5,
+		"rating": 7
+	}
+]
